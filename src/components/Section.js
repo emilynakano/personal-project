@@ -37,7 +37,7 @@ const Container = styled.div`
     background-position: center;
 `
 const Title = styled.div`
-    padding: 10vh;
+    padding: 15vh;
     display: flex;
     flex-direction: column;
 
